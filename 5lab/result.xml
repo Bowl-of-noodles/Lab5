@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workers>
+    <workers>
+        <entry>
+            <key>1</key>
+            <value>
+                <id>5</id>
+                <name>name</name>
+                <coordinates>
+                    <x>33.0</x>
+                    <y>5</y>
+                </coordinates>
+                <creationDate>2015-11-30T23:45:59.000001234+01:00[UTC+01:00]</creationDate>
+                <salary>10</salary>
+            </value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value>
+                <id>1</id>
+                <name>new</name>
+                <coordinates>
+                    <x>3.0</x>
+                    <y>7</y>
+                </coordinates>
+                <creationDate>2021-10-27T16:58:51.204+03:00[GMT+03:00]</creationDate>
+                <salary>100</salary>
+                <endDate>2021-01-08T10:10:10+03:00</endDate>
+                <position>MANAGER</position>
+                <status>HIRED</status>
+                <organization>
+                    <fullName>itcomp</fullName>
+                    <type>COMMERCIAL</type>
+                    <postalAddress>
+                        <street>lensoveta</street>
+                        <town>
+                            <x>30</x>
+                            <y>20</y>
+                            <z>10</z>
+                            <name>cool</name>
+                        </town>
+                    </postalAddress>
+                </organization>
+            </value>
+        </entry>
+    </workers>
+</workers>
